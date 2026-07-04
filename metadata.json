@@ -1,0 +1,6 @@
+{
+  "name": "one.shefaro",
+  "description": "A parcel shipping platform for India, offering simple, fast, and hassle-free domestic shipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
